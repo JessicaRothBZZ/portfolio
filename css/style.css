@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.carousel-title {
+	text-align: center;
+	margin-top: 100px !important;
+	margin: 0 auto;
+	display: block;
+	width: 60%;
+	padding-bottom: 50px;
+	padding-top: 100px;
+	
+}
+
+h4 {
+	text-align: center;
+	font-weight: 800;
+}
+
+.pb {
+	text-align: center;
+	margin-top: 50px;
+
+}
+
+.video {
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	/*margin: 0 auto; width: 36vw;*/
+	}
+
+.text-me {
+	color: #fff;
+	margin: 50px;
+	
+}
+
+.questions {
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+	margin-bottom: -60px;
+	text-align: center;
+	background-color: #fff;
+	padding: 40px 90px;
+  border-radius: 20px;
+	color: black;
+}
+
+h5 {
+	color: #343A40;
+}
+
+p {
+	color: black;
+}
+
+h3 {
+	color: #343A40;
+	padding-bottom: 20PX;
+}
+
+.btn-danger {
+	color: white;
+	background-color: #343A40; !important
